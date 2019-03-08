@@ -86,8 +86,7 @@
             "type": "string",
             "defaultValue": "latest",
             "allowedValues": [
-                "7.1.1",
-		"8.0.0"		    
+                "8.1.4"	    
             ],
             "metadata": {
                 "description": "PAN-OS version."
